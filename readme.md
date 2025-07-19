@@ -28,36 +28,119 @@ A full-stack hotel booking application built with the MERN stack (MongoDB, Expre
 
 ## 🖼️ Application Screenshots
 
-### Homepage
+### Homepage - First Impression
 
 ![Homepage](https://github.com/AhamedSifat/BookLiton/blob/main/client/public/images/home_page.png?raw=true)
-_Clean and intuitive homepage with search functionality and featured hotels_
 
-### Hotel Management
+The homepage serves as the main entry point for users, featuring a modern and responsive design. The interface includes:
+
+- **Hero Section**: Eye-catching banner with search functionality allowing users to find hotels by destination, check-in/check-out dates, and guest count
+- **Featured Hotels**: Curated selection of popular hotels displayed in an attractive card layout
+- **Quick Search Bar**: Prominent search functionality with date pickers and location autocomplete
+- **Navigation Menu**: Clean header with user authentication links and easy access to all major sections
+- **Responsive Design**: Fully optimized for mobile, tablet, and desktop viewing experiences
+
+The homepage uses a sophisticated color scheme and typography that creates a professional yet welcoming atmosphere for travelers looking to book their perfect stay.
+
+### Advanced Search & Discovery
+
+![Search Results](https://github.com/AhamedSifat/BookLiton/blob/main/client/public/images/search_page.jpg?raw=true)
+
+The search functionality transforms hotel discovery into an engaging and efficient experience:
+
+- **Smart Filtering System**: Comprehensive filters including price range, hotel type, amenities, and guest ratings
+- **Real-time Results**: Dynamic search results that update instantly as users modify their criteria
+- **Sort Options**: Multiple sorting capabilities by price, rating, distance, and popularity
+- **Map Integration**: Interactive map view showing hotel locations with pricing overlays
+- **Availability Checking**: Real-time availability verification for selected dates and guest counts
+- **Comparison Tools**: Side-by-side hotel comparison functionality for informed decision making
+- **Saved Searches**: Ability to bookmark searches and set up availability alerts
+- **Load More/Pagination**: Efficient result loading with infinite scroll or traditional pagination options
+
+This search system combines powerful filtering capabilities with an intuitive interface, helping users quickly find their ideal accommodation while exploring various options and making informed decisions.
+
+### Hotel Management - Property Creation
 
 ![Add Hotel](https://github.com/AhamedSifat/BookLiton/blob/main/client/public/images/add_hotel_page.jpg?raw=true)
-_Comprehensive hotel creation form with type selection and facilities_
+
+The hotel creation interface empowers property owners with a comprehensive form system:
+
+- **Multi-Step Form**: Intuitive wizard-style form breaking down hotel creation into manageable sections
+- **Property Details**: Essential information fields including hotel name, description, and location details
+- **Hotel Type Selection**: Dropdown menu with various hotel categories (Luxury, Budget, Boutique, Resort, etc.)
+- **Facilities Management**: Interactive checkbox system for amenities like WiFi, Pool, Spa, Gym, and more
+- **Image Upload System**: Drag-and-drop interface powered by Cloudinary for multiple high-quality image uploads
+- **Pricing Configuration**: Flexible pricing setup with per-night rates and guest capacity settings
+- **Real-time Validation**: Instant feedback on form inputs with clear error messaging and success indicators
+
+This interface ensures hotel owners can easily list their properties with all necessary details while maintaining data quality and consistency.
+
+### Hotel Management Dashboard
 
 ![My Hotels](https://github.com/AhamedSifat/BookLiton/blob/main/client/public/images/my_hotel_page.jpg?raw=true)
-_Hotel owner dashboard showing all managed properties_
 
-### Booking System
+The property management dashboard provides hotel owners with complete oversight of their listings:
+
+- **Hotel Portfolio Overview**: Grid-based layout displaying all owned properties with key information at a glance
+- **Quick Actions**: Edit, view, and manage individual hotels directly from the dashboard
+- **Property Status Indicators**: Visual cues showing booking availability and property status
+- **Performance Metrics**: Basic analytics showing booking frequency and revenue potential
+- **Add New Property**: Prominent call-to-action button for expanding their hotel portfolio
+- **Search and Filter**: Tools to quickly locate specific properties within larger portfolios
+- **Responsive Cards**: Each hotel displayed in an informative card showing images, pricing, and essential details
+
+This dashboard streamlines property management, allowing owners to efficiently oversee multiple hotels and make quick updates as needed.
+
+### Hotel Details - Guest Experience
 
 ![Hotel Details](https://github.com/AhamedSifat/BookLiton/blob/main/client/public/images/hotel_details_page.jpg?raw=true)
-_Detailed hotel view with gallery, amenities, and booking form_
+
+The hotel details page offers a comprehensive view designed to convert browsers into bookers:
+
+- **Image Gallery**: High-resolution photo carousel showcasing the hotel's best features and amenities
+- **Detailed Information**: Complete hotel description, location details, and unique selling points
+- **Amenities Showcase**: Visual representation of all hotel facilities with intuitive icons
+- **Booking Widget**: Integrated booking form with date selection, guest count, and instant availability checking
+- **Pricing Display**: Clear, transparent pricing with total cost calculations including taxes and fees
+- **Reviews and Ratings**: Social proof section displaying guest feedback and overall satisfaction scores
+- **Location Map**: Interactive map showing hotel location and nearby attractions
+- **Room Types**: Detailed breakdown of available accommodations with specific amenities and capacity
+
+This page is optimized for conversion, providing all necessary information while maintaining a clean, user-friendly layout that encourages bookings.
+
+### Secure Checkout Process
 
 ![Booking Confirmation](https://github.com/AhamedSifat/BookLiton/blob/main/client/public/images/checkout_page.jpg?raw=true)
-_Secure booking confirmation with payment details_
 
-### Authentication
+The checkout experience prioritizes security and user confidence throughout the payment process:
+
+- **Booking Summary**: Clear breakdown of selected dates, room details, guest information, and total costs
+- **Guest Information Form**: Secure collection of traveler details with validation for required fields
+- **Stripe Integration**: PCI-compliant payment processing with support for major credit cards and digital wallets
+- **Security Indicators**: Visual SSL certificates and security badges to build customer trust
+- **Payment Protection**: Encrypted transaction processing with real-time fraud detection
+- **Confirmation System**: Instant booking confirmation with email receipts and booking reference numbers
+- **Cancellation Policy**: Clear terms and conditions display with flexible cancellation options
+- **Mobile Optimization**: Streamlined mobile checkout process with touch-friendly interfaces
+
+The entire checkout flow is designed to minimize cart abandonment while ensuring complete transaction security and user satisfaction.
+
+### User Authentication System
 
 ![Authentication](https://github.com/AhamedSifat/BookLiton/blob/main/client/public/images/login_Signup.jpg?raw=true)
-_Clean sign up and login forms_
 
-### Search & Filtering
+The authentication system provides secure and user-friendly access management:
 
-![Search Results](https://github.com/user/repo/blob/main/search-results.png)
-_Advanced search with filters for hotel type, facilities, and price range_
+- **Dual Authentication Modes**: Seamless toggle between login and registration forms on a single interface
+- **Form Validation**: Real-time input validation with helpful error messages and success indicators
+- **Security Features**: Password strength indicators, secure token generation, and session management
+- **User Experience**: Clean, modern design with intuitive form layouts and clear call-to-action buttons
+- **Social Integration Ready**: Framework prepared for future social media login integration
+- **Password Recovery**: Built-in forgot password functionality with secure reset procedures
+- **Registration Process**: Streamlined signup with email verification and welcome messaging
+- **Responsive Design**: Fully optimized authentication forms for all device sizes
+
+The authentication system balances security requirements with user convenience, ensuring smooth onboarding while maintaining robust protection of user data.
 
 ## 🛠️ Technology Stack
 
