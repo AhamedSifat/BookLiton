@@ -1,0 +1,472 @@
+[
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59250"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Grand Palace Hotel",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "description": "A luxurious hotel in the heart of Dhaka with stunning city views and world-class amenities. Perfect for business travelers and tourists alike.",
+    "type": "Luxury",
+    "adultCount": 4,
+    "childCount": 2,
+    "facilities": [
+      "Free WiFi",
+      "Parking",
+      "Airport Shuttle",
+      "Spa",
+      "Fitness Center"
+    ],
+    "pricePerNight": 12500,
+    "starRating": 5,
+    "imageUrls": [
+      "/images/hotel1-1.jpg",
+      "/images/hotel1-2.jpg",
+      "/images/hotel1-3.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T10:15:29.147Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59251"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Cox's Bazar Beach Resort",
+    "city": "Cox's Bazar",
+    "country": "Bangladesh",
+    "description": "Beachfront resort with direct access to the world's longest sea beach. Enjoy sunset views and fresh seafood.",
+    "type": "Beach Resort",
+    "adultCount": 6,
+    "childCount": 4,
+    "facilities": [
+      "Beach Access",
+      "Outdoor Pool",
+      "Restaurant",
+      "Bar",
+      "Water Sports"
+    ],
+    "pricePerNight": 8500,
+    "starRating": 4,
+    "imageUrls": [
+      "/images/hotel2-1.jpg",
+      "/images/hotel2-2.jpg",
+      "/images/hotel2-3.jpg",
+      "/images/hotel2-4.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T11:20:40.306Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59252"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Sylhet Tea Garden Lodge",
+    "city": "Sylhet",
+    "country": "Bangladesh",
+    "description": "Peaceful retreat surrounded by lush tea gardens and rolling hills. Experience the natural beauty of Sylhet.",
+    "type": "Lodge",
+    "adultCount": 4,
+    "childCount": 3,
+    "facilities": [
+      "Garden View",
+      "Tea Tasting",
+      "Nature Walks",
+      "Free WiFi",
+      "Restaurant"
+    ],
+    "pricePerNight": 4500,
+    "starRating": 3,
+    "imageUrls": [
+      "/images/hotel3-1.jpg",
+      "/images/hotel3-2.jpg",
+      "/images/hotel3-3.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T09:30:15.520Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59253"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Chittagong Port City Hotel",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "description": "Modern business hotel in the commercial capital with excellent connectivity and conference facilities.",
+    "type": "Business",
+    "adultCount": 2,
+    "childCount": 1,
+    "facilities": [
+      "Business Center",
+      "Conference Rooms",
+      "Free WiFi",
+      "Parking",
+      "Airport Shuttle"
+    ],
+    "pricePerNight": 6800,
+    "starRating": 4,
+    "imageUrls": [
+      "/images/hotel4-1.jpg",
+      "/images/hotel4-2.jpg",
+      "/images/hotel4-3.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T14:45:22.890Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59254"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Rangpur Heritage Inn",
+    "city": "Rangpur",
+    "country": "Bangladesh",
+    "description": "Charming heritage property showcasing traditional Bengali architecture and warm hospitality.",
+    "type": "Heritage",
+    "adultCount": 5,
+    "childCount": 2,
+    "facilities": [
+      "Traditional Decor",
+      "Cultural Shows",
+      "Local Cuisine",
+      "Garden",
+      "Free WiFi"
+    ],
+    "pricePerNight": 3200,
+    "starRating": 3,
+    "imageUrls": [
+      "/images/hotel5-1.jpg",
+      "/images/hotel5-2.jpg",
+      "/images/hotel5-3.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T16:10:33.445Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59255"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Khulna Riverside Hotel",
+    "city": "Khulna",
+    "country": "Bangladesh",
+    "description": "Riverside location with easy access to Sundarbans National Park. Perfect base for nature enthusiasts.",
+    "type": "Eco Resort",
+    "adultCount": 6,
+    "childCount": 4,
+    "facilities": [
+      "River View",
+      "Boat Tours",
+      "Sundarbans Access",
+      "Restaurant",
+      "Parking"
+    ],
+    "pricePerNight": 5500,
+    "starRating": 4,
+    "imageUrls": [
+      "/images/hotel6-1.jpg",
+      "/images/hotel6-2.jpg",
+      "/images/hotel6-3.jpg",
+      "/images/hotel6-4.jpg",
+      "/images/hotel6-5.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T12:55:18.234Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59256"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Rajshahi Silk City Hotel",
+    "city": "Rajshahi",
+    "country": "Bangladesh",
+    "description": "Elegant hotel in the silk city known for its mango orchards and historical significance.",
+    "type": "City Hotel",
+    "adultCount": 3,
+    "childCount": 2,
+    "facilities": [
+      "City Center",
+      "Shopping Access",
+      "Restaurant",
+      "Free WiFi",
+      "Room Service"
+    ],
+    "pricePerNight": 4200,
+    "starRating": 3,
+    "imageUrls": [
+      "/images/hotel7-1.jpg",
+      "/images/hotel7-2.jpg",
+      "/images/hotel7-3.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T08:25:45.667Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59257"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Barisal River Cruise Hotel",
+    "city": "Barisal",
+    "country": "Bangladesh",
+    "description": "Unique floating hotel experience with traditional river cruise facilities and local cultural programs.",
+    "type": "Floating Hotel",
+    "adultCount": 4,
+    "childCount": 3,
+    "facilities": [
+      "River Cruise",
+      "Traditional Meals",
+      "Cultural Programs",
+      "Fishing",
+      "Sunset Viewing"
+    ],
+    "pricePerNight": 7200,
+    "starRating": 4,
+    "imageUrls": [
+      "/images/hotel8-1.jpg",
+      "/images/hotel8-2.jpg",
+      "/images/hotel8-3.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T15:40:28.889Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59258"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Mymensingh Agricultural Resort",
+    "city": "Mymensingh",
+    "country": "Bangladesh",
+    "description": "Farm-stay experience with organic farming activities and fresh local produce dining.",
+    "type": "Farm Resort",
+    "adultCount": 8,
+    "childCount": 6,
+    "facilities": [
+      "Organic Farm",
+      "Farm Activities",
+      "Fresh Produce",
+      "Outdoor Pool",
+      "Nature Walks"
+    ],
+    "pricePerNight": 3800,
+    "starRating": 3,
+    "imageUrls": [
+      "/images/hotel9-1.jpg",
+      "/images/hotel9-2.jpg",
+      "/images/hotel9-3.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T13:20:55.123Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59259"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Comilla Royal Palace Hotel",
+    "city": "Comilla",
+    "country": "Bangladesh",
+    "description": "Majestic hotel near historical sites with royal treatment and premium services.",
+    "type": "Royal",
+    "adultCount": 2,
+    "childCount": 1,
+    "facilities": [
+      "Royal Treatment",
+      "Historical Tours",
+      "Premium Service",
+      "Spa",
+      "Fine Dining"
+    ],
+    "pricePerNight": 9500,
+    "starRating": 5,
+    "imageUrls": [
+      "/images/hotel10-1.jpg",
+      "/images/hotel10-2.jpg",
+      "/images/hotel10-3.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T11:05:42.756Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59260"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Jessore Garden Resort",
+    "city": "Jessore",
+    "country": "Bangladesh",
+    "description": "Peaceful garden resort with beautiful landscaping and recreational facilities for families.",
+    "type": "Garden Resort",
+    "adultCount": 6,
+    "childCount": 4,
+    "facilities": [
+      "Beautiful Gardens",
+      "Playground",
+      "Family Rooms",
+      "Outdoor Pool",
+      "Barbecue Area"
+    ],
+    "pricePerNight": 4800,
+    "starRating": 3,
+    "imageUrls": [
+      "/images/hotel11-1.jpg",
+      "/images/hotel11-2.jpg",
+      "/images/hotel11-3.jpg",
+      "/images/hotel11-4.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T17:30:11.445Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59261"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Bogra Archaeological Hotel",
+    "city": "Bogra",
+    "country": "Bangladesh",
+    "description": "Unique hotel near ancient archaeological sites with guided tours and cultural experiences.",
+    "type": "Cultural Hotel",
+    "adultCount": 4,
+    "childCount": 2,
+    "facilities": [
+      "Archaeological Tours",
+      "Cultural Programs",
+      "Museum Access",
+      "Local Guides",
+      "Traditional Food"
+    ],
+    "pricePerNight": 5200,
+    "starRating": 4,
+    "imageUrls": [
+      "/images/hotel12-1.jpg",
+      "/images/hotel12-2.jpg",
+      "/images/hotel12-3.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T14:15:33.889Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59262"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Dinajpur Maharaja Hotel",
+    "city": "Dinajpur",
+    "country": "Bangladesh",
+    "description": "Luxurious hotel with royal heritage architecture and modern amenities in historic Dinajpur.",
+    "type": "Heritage Luxury",
+    "adultCount": 3,
+    "childCount": 1,
+    "facilities": [
+      "Heritage Architecture",
+      "Royal Suites",
+      "Palace Tours",
+      "Spa",
+      "Fine Dining"
+    ],
+    "pricePerNight": 8800,
+    "starRating": 5,
+    "imageUrls": [
+      "/images/hotel13-1.jpg",
+      "/images/hotel13-2.jpg",
+      "/images/hotel13-3.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T10:50:27.234Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59263"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Patuakhali Coastal Resort",
+    "city": "Patuakhali",
+    "country": "Bangladesh",
+    "description": "Coastal resort with mangrove forest access and traditional fishing village experiences.",
+    "type": "Coastal Resort",
+    "adultCount": 5,
+    "childCount": 3,
+    "facilities": [
+      "Coastal Access",
+      "Mangrove Tours",
+      "Fishing Experience",
+      "Boat Rides",
+      "Seafood Restaurant"
+    ],
+    "pricePerNight": 6200,
+    "starRating": 4,
+    "imageUrls": [
+      "/images/hotel14-1.jpg",
+      "/images/hotel14-2.jpg",
+      "/images/hotel14-3.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T16:45:19.567Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68694af14550e59f72e59264"
+    },
+    "userId": "6867fe7604843daa10b4002b",
+    "name": "Narayanganj Industrial City Hotel",
+    "city": "Narayanganj",
+    "country": "Bangladesh",
+    "description": "Modern business hotel catering to industrial visitors with excellent transport connectivity.",
+    "type": "Industrial Hotel",
+    "adultCount": 2,
+    "childCount": 0,
+    "facilities": [
+      "Business Services",
+      "Industrial Area Access",
+      "Conference Facilities",
+      "Transport Hub",
+      "24/7 Service"
+    ],
+    "pricePerNight": 5800,
+    "starRating": 4,
+    "imageUrls": [
+      "/images/hotel15-1.jpg",
+      "/images/hotel15-2.jpg",
+      "/images/hotel15-3.jpg",
+      "/images/hotel15-4.jpg"
+    ],
+    "lastUpdated": {
+      "$date": "2025-07-19T09:35:52.678Z"
+    },
+    "__v": 0
+  }
+]
